@@ -35,4 +35,4 @@
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2022 - LoginScreen LD
+Copyright :copyright: 2022 - WeatherOpen API + PageDash + CSS style
