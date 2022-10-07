@@ -35,4 +35,5 @@
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2022 - WeatherOpen API + PageDash + CSS style
+Copyright :copyright: 2022 - https://openweathermap.org/api + PageDash + CSS style
+
